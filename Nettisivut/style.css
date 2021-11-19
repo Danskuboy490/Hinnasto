@@ -1,0 +1,17 @@
+body {
+    background-color: black
+}
+h1{
+    font-size: 5rem;
+    font-family: sabs-serif;
+    color: white;
+    text-align: center;
+}
+
+
+.Hinnasto-kuva {
+    height: 75vh;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
